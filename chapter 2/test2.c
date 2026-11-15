@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main(){
+   float x = 2 , y = 3 , z = 3 , k = 1;
+
+   printf("the value of the expression is %f",3*x/y-z+k);
+
+   return 0;
+}
